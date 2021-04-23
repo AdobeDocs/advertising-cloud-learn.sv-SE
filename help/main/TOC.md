@@ -7,7 +7,7 @@ solution: Advertising Cloud
 translation-type: tm+mt
 source-git-commit: 48ca6fcc4b72981535b8431da66c030aa5e0ff71
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
