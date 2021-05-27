@@ -2,7 +2,6 @@
 title: Introduktion till Workspace och rapportering av Advertising Cloud-data
 description: Lär dig hur du kan använda dina Advertising Cloud-data för att skapa visuella rapporter i Adobe Analytics Analysis Workspace.
 exl-id: 83e96311-e871-4913-959e-473be62c5c47
-translation-type: tm+mt
 source-git-commit: eaae31ff9cc2ca1b9b4de42a07b34673c247799b
 workflow-type: tm+mt
 source-wordcount: '53'
