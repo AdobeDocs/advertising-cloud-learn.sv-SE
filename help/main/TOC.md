@@ -4,7 +4,6 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Adve
 breadcrumb-title: Advertising Cloud Tutorials
 breadcrumb-url: /docs/advertising-cloud-learn/dsp/overview.html
 solution: Advertising Cloud
-translation-type: tm+mt
 source-git-commit: 48ca6fcc4b72981535b8431da66c030aa5e0ff71
 workflow-type: tm+mt
 source-wordcount: '90'
