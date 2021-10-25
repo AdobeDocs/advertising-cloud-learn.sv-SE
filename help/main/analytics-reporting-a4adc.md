@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Rapportering med Advertising Cloud Marketing Channel (A4AdC)
 
-Lär dig hur Advertising Cloud-vyigenom- och klickningsdata fungerar med Adobe Analytics [!UICONTROL Marketing Channels].
+Läs om hur informationen för genomskinlig och klickbar post i Advertising Cloud fungerar med Adobe Analytics [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

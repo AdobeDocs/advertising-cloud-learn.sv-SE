@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Advertising Cloud Tutorials
 
-Välkommen till webbplatsen [!DNL Advertising Cloud] Tutorials. Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://helpx.adobe.com/support/advertising-cloud.html) får du en bättre förståelse för hur du använder Adobe Advertising Cloud för att få kundinsikter snabbare än någonsin.
+Välkommen till [!DNL Advertising Cloud] Tutorials webbplats. Använd dessa självstudiekurser tillsammans med [dokumentation](https://helpx.adobe.com/support/advertising-cloud.html) ger er en bättre förståelse för hur ni använder Adobe Advertising Cloud för att få kundinsikter snabbare än någonsin.
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
