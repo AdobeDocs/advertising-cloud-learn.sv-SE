@@ -3,9 +3,9 @@ user-guide-title: Adobe Advertising Cloud Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Advertising Cloud.
 breadcrumb-title: Advertising Cloud Tutorials
 solution: Advertising Cloud
-source-git-commit: 3814915ff4ab6709c480812478cb7719f3004a84
+source-git-commit: 0821a090afa1799333ca6ef99438667dfdf4b0ee
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + DSP {#dsp}
-   + [Introduktion till Advertising Cloud DSP](/help/dsp/overview.md)
+   + [Introduktion till Advertising Cloud DSP](/help/dsp/intro.md)
    + [Kontostruktur och användargränssnitt](/help/dsp/ui.md)
    + [Så här överför du tredjeparts-annonstaggar gruppvis](/help/dsp/bulk-upload-third-party-ad-tags.md)
    + [Redigera placeringar med gruppredigeringsverktyg](/help/dsp/bulk-edit-placement-tools.md)
