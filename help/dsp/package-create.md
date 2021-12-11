@@ -1,7 +1,7 @@
 ---
 title: Så här skapar du ett paket för Advertising Cloud DSP
 description: Lär dig hur du skapar ett paket.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+source-git-commit: ef57232c541e5b0b385ed7c34d215c142858cde3
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
@@ -12,4 +12,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar ett paket för en Advertising Cloud DSP-kampanj.
 
->[!VIDEO](https://video.tv.adobe.com/v/338971/)
+>[!VIDEO](https://video.tv.adobe.com/v/339203)
