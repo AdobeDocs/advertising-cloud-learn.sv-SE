@@ -1,17 +1,15 @@
 ---
-title: Så här skapar du en placering för Advertising Cloud DSP
-description: Lär dig hur du skapar en placering.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+title: Så här skapar du en standardbildskärmsplacering för Advertising Cloud DSP
+description: Lär dig hur du skapar en standardbildskärmsplacering.
+source-git-commit: ebceb6cdd931dfb799d2b54f3ab5be84e227e7dd
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Så här skapar du en placering
+# Så här skapar du en standardbildskärmsplacering
 
-Lär dig hur du skapar en placering för en Advertising Cloud DSP-kampanj.
+Lär dig hur du skapar en standardvisningsplats för en Advertising Cloud DSP-kampanj.
 
-<!--
->[!VIDEO]()
--->
+>[!VIDEO](https://video.tv.adobe.com/v/340454)
