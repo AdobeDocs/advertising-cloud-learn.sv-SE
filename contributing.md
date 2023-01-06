@@ -1,9 +1,8 @@
 ---
-source-git-commit: 89ebe7991ce7b3d2434f42c13f0a7c553a99e316
+source-git-commit: 962a74c18225e35faf1f984f41ea5ee5211c381a
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # Bidrar
@@ -19,20 +18,15 @@ Detta projekt följer Adobes [uppförandekod](code-of-conduct.md). Genom att del
 
 ## Dokumentation för Contributor-handboken
 
-Se [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Se [Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Har du en fråga?
 
-Börja med att lämna in ett ärende. Befintliga committers i det här projektet arbetar för att nå
-konsensus om projektriktning och skicka ut lösningar inom problemtrådar
-(i tillämpliga fall).
+Börja med att lämna in ett ärende. Befintliga committers i detta projekt arbetar för att nå samförstånd om projektriktning och utfärda lösningar inom problemtrådar (när det är lämpligt).
 
 ## Licensavtal för deltagare
 
-Alla bidrag från tredje part till detta projekt måste åtföljas av en undertecknad bidragsgivare
-licensavtal. Detta ger Adobe tillstånd att återdistribuera dina bidrag som en del av projektet. [Underteckna vårt CLA](http://opensource.adobe.com/cla.html). Du
-behöver bara skicka ett Adobe CLA en gång, så om du har skickat in ett tidigare,
-Du är redo att gå!
+Alla bidrag från tredje part till detta projekt måste åtföljas av ett undertecknat licensavtal för bidragsgivare. Detta ger Adobe tillstånd att återdistribuera dina bidrag som en del av projektet. [Signera vårt CLA](http://opensource.adobe.com/cla.html). Du behöver bara skicka ett Adobe CLA en gång, så om du har skickat ett tidigare är du redo att gå!
 
 ## Kodgranskningar
 
@@ -45,13 +39,8 @@ submitting a pull request!
 
 ## Från medarbetare till committer
 
-Vi älskar bidrag från vår community! Om du vill gå ett steg längre än medverkande
-och bli en committer med fullständig skrivåtkomst och en medarbetare i projektet, måste du
-bli inbjuden till projektet. Befintliga committers använder en intern nominering
-processer som måste uppnå lat samförstånd (tystnad innebär godkännande) före inbjudningar
-utfärdas. Om du känner att du är kvalificerad och vill bli mer involverad,
-Jag kan kontakta befintliga committers för att diskutera det.
+Vi älskar bidrag från vår community! Om du vill gå ett steg längre än medverkande och bli committer med fullständig skrivbehörighet och en medarbetare i projektet måste du bli inbjuden till projektet. Befintliga committers använder en intern nomineringsprocess som måste uppnå lat samförstånd (tystnad är godkännande) innan inbjudningar utfärdas. Om du anser att du är kvalificerad och vill bli mer involverad kan du kontakta befintliga committers för att diskutera det.
 
 ## Säkerhetsproblem
 
-Säkerhetsproblem ska inte rapporteras i den här felspåraren. [skicka i stället ett ärende till våra säkerhetsexperter](https://helpx.adobe.com/security/alertus.html)
+Säkerhetsproblem ska inte rapporteras i den här felspåraren. Istället [skicka ett ärende till våra säkerhetsexperter](https://helpx.adobe.com/security/alertus.html)
