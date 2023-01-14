@@ -1,16 +1,16 @@
 ---
-title: Advertising Cloud DSP Audience Libraries och Använda beteendeanpassning
+title: DSP målgruppsbibliotek och tillämpa beteendeanpassning
 description: Lär dig mer om återanvändbara målgruppsbibliotek för att anpassa beteendeanpassning.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Målgruppsbibliotek och beteendeanpassning
 
-Lär dig mer om återanvändbara målgruppsbibliotek för att anpassa beteendeanpassning, hur du skapar dem och hur du tillämpar dem på dina Advertising Cloud DSP-placeringar.
+Lär dig mer om återanvändbara målgruppsbibliotek för att anpassa beteendeanpassning, hur du skapar dem och hur du använder dem på DSP.
 
 <!--
 >[!VIDEO]()

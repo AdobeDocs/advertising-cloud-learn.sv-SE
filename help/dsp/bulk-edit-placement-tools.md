@@ -1,15 +1,16 @@
 ---
-title: Så här redigerar du placeringar med gruppredigeringsverktyg för Advertising Cloud DSP
+title: Redigera placeringar med gruppredigeringsverktyg för DSP
 description: Lär dig hur du redigerar inställningarna för flera placeringar samtidigt.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+exl-id: 3c9abc04-0261-4ba1-a19d-68a6d862f660
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Redigera placeringar med gruppredigeringsverktyg
 
-Lär dig hur du redigerar inställningarna för flera platser samtidigt i Advertising Cloud DSP.
+Lär dig hur du redigerar inställningarna för flera placeringar samtidigt i DSP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339205)

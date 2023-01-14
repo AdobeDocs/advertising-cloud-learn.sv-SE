@@ -1,18 +1,18 @@
 ---
 title: Skapa [!DNL Analytics] Segment för aktivering och rapportering
-description: Lär dig hur du använder Advertising Cloud-dimensioner för att skapa segment för tydligare rapportering och analys.
+description: Lär dig hur du kan använda Adobe Advertising-dimensioner för att skapa segment för tydligare rapportering och analys.
 exl-id: f797e982-e49d-4038-982e-f2635e56591b
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Skapa [!DNL Analytics] Segment för aktivering och rapportering
 
-*Annonsörer med[!DNL Adobe Analytics for Advertising Cloud]*
+*Annonsörer med[!DNL Adobe Analytics for Adobe Advertising]*
 
-Lär dig hur du använder Advertising Cloud-dimensioner för att skapa segment för tydligare rapportering och analys.
+Lär dig hur du kan använda Adobe Advertising-dimensioner för att skapa segment för tydligare rapportering och analys.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33916)

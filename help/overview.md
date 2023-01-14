@@ -1,23 +1,23 @@
 ---
-title: Advertising Cloud Tutorials
-description: En samling videor och självstudiekurser för Adobe Advertising Cloud.
+title: Adobe Advertising Tutorials
+description: En samling videor och självstudiekurser för Adobe-reklam.
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: 43ddfe0e493296bd8e8cd415627a38d78fb55f9c
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud Tutorials
+# Adobe Advertising Tutorials
 
-Dessa videokurser, tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/advertising-cloud.html), hjälper er att använda Advertising Cloud för att få kundinsikter snabbare än någonsin.
+Dessa videokurser, tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/advertising-cloud.html), hjälper er att använda Adobe Advertising för att få kundinsikter snabbare än någonsin.
 
 Videoklipp finns för:
 
-* Advertising Cloud DSP
+* DSP
 
-* Advertising Cloud DSP- och Advertising Cloud Search-integreringar med andra produkter och tjänster från Adobe Experience Cloud
+* Advertising DSP and Advertising Search integration with other Adobe Experience Cloud products and services
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content

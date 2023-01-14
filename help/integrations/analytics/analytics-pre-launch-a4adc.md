@@ -1,18 +1,18 @@
 ---
 title: Skapa en kampanjanalys före lansering med Adobe Analytics
-description: Lär dig hur du använder Adobe Analytics för att lägga grunden till en mediekampanj som betalas av Advertising Cloud.
+description: Lär dig hur du använder Adobe Analytics för att lägga grunden till att lansera en betald mediekampanj i Adobe Advertising.
 exl-id: a19e4ccb-7b32-461c-8d55-874524509c06
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Skapa en kampanjanalys före lansering med Adobe Analytics
 
-*Annonsörer med[!DNL Adobe Analytics for Advertising Cloud]*
+*Annonsörer med[!DNL Adobe Analytics for Adobe Advertising]*
 
-Lär dig hur du använder Adobe Analytics för att lägga grunden till en mediekampanj som betalas av Advertising Cloud.
+Lär dig hur du använder Adobe Analytics för att lägga grunden till att lansera en betald mediekampanj i Adobe Advertising.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)
