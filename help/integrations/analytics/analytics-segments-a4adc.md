@@ -1,10 +1,9 @@
 ---
 title: Skapa [!DNL Analytics] Segment för aktivering och rapportering
 description: Lär dig hur du kan använda Adobe Advertising-dimensioner för att skapa segment för tydligare rapportering och analys.
-exl-id: f797e982-e49d-4038-982e-f2635e56591b
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

@@ -1,8 +1,7 @@
 ---
 title: Introduktion till Adobe Advertising DSP
 description: Läs om Adobe Advertising DSP och hur det kan gynna era mediekampanjer.
-exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
